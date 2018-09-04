@@ -1,2 +1,0 @@
-# Compont
-samll compont
